@@ -1,2 +1,1 @@
-# Density-based-spatial-clustering-
-Density-based spatial clustering 
+For this project we use DBSCAN for clustering. The data set money.csv contains the measurements of 200, of the 1000 Swiss Franc banknotes. For each banknote the following six measurements were recorded: the length of the note (x1), the left width of the note (x2), the right width of the note (x3), the width of the margin at the bottom of the note (x4), the width of the margin at the top of the note (x5) and the diagonal length of the inner frame of the note (x6).
